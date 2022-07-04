@@ -1,0 +1,4 @@
+name: comprehensive-azurestan
+main: space.azurestan.Comprehensive
+version: 0.0.0
+commands:
